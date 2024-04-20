@@ -1,0 +1,41 @@
+.R{
+    color: rgb(106, 173, 175);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Underline{
+    text-decoration-line: underline;
+    font-weight: 500;
+}
+
+.center{
+    text-align: center;
+}
+
+.center2{
+    text-align: center;
+    width: 25%;
+}
+
+.RHeader{
+    font-weight: lighter;
+}
+
+.div1{
+    color: rgb(239, 156, 79);
+    text-align:left;
+}
+
+.div2{
+    color: rgb(117, 116, 116);
+    text-align: left;
+}
+
+.div3{
+    color: rgb(88, 163, 214);
+    text-align: left;
+}
+
+.Back1{
+    background-color: rgb(230, 247, 247);
+}
